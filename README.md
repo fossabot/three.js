@@ -6,6 +6,7 @@ three.js
 [![License][license-badge]][license-badge-url]
 [![Dependencies][dependencies-badge]][dependencies-badge-url]
 [![Dev Dependencies][devDependencies-badge]][devDependencies-badge-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fromans%2Fthree.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fromans%2Fthree.js?ref=badge_shield)
 
 #### JavaScript 3D library ####
 
@@ -84,3 +85,7 @@ If everything went well you should see [this](https://jsfiddle.net/hfj7gm6t/).
 [dependencies-badge-url]: https://david-dm.org/mrdoob/three.js
 [devDependencies-badge]: https://img.shields.io/david/dev/mrdoob/three.js.svg
 [devDependencies-badge-url]: https://david-dm.org/mrdoob/three.js#info=devDependencies
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fromans%2Fthree.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fromans%2Fthree.js?ref=badge_large)
